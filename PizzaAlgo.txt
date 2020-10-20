@@ -9,3 +9,4 @@ get a Tip
 Delivery
 Pick up
 Address
+Back to the Store
